@@ -2,7 +2,7 @@
 
 ## What we will cover
 
-- What is deployment?
+- What is a deployment?
 - How to do it without any special tools
 - Why Docker helps to make it easier
 - Why docker-compose helps to make it easier
