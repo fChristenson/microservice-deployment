@@ -4,6 +4,8 @@
 
 - What is a deployment?
 - How to do it without any special tools
+- What is a load balancer?
+- Why do we need a load balancer?
 - Why Docker helps to make it easier
 - Why docker-compose helps to make it easier
 - Why Kubernetes helps to make it even easier
