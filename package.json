@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start:books": "node ./books/server.js",
+    "start:users": "node ./users/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
