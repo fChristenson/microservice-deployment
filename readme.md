@@ -24,3 +24,9 @@ You may remember the old "down for maintenance" pages.
 
 Blue-Green means that we run version A and then a new version B, then we wait for all traffic to
 move over to version B before we remove version A.
+
+### Rollover
+
+A rollover release is when we have distributed system and we switch out each service as soon as
+it is ready instead of as in a Blue-Green release where we wait for all services to be up and running
+before we make the switch.
